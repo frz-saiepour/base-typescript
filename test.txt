@@ -1,9 +1,0 @@
-Welcome to Node.js v12.14.1.
-Type ".help" for more information.
-[1G[0J> [3G
-[1G[0J> [3G
-[1G[0J> [3G
-[1G[0J> [3G
-(To exit, press ^C again or ^D or type .exit)
-[1G[0J> [3G
-

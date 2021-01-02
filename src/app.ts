@@ -1,2 +1,7 @@
-let name: string = process.env.NAME || 'UNKNOWN'
-console.log(`Hello ${name}!`)
+let myName: string = process.env.NAME || 'UNKNOWN'
+
+export const sayHello = (name: string): string => {
+    return `Hello ${name}!`;
+}
+
+console.log(sayHello(myName))
